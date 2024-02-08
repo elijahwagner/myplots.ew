@@ -1,0 +1,14 @@
+Package: gbox
+Title: Create Box Plots with ggplot
+Version: 0.1.0
+Authors@R:
+person("Your", "Name", email = "your.email@example.com", role = c("aut", "cre"))
+Description: This package provides a simple function, gboxplot(), to create box plot visualizations using ggplot. 
+The gboxplot() function can generate either a single box plot for a numeric vector or side-by-side box plots for 
+a numeric and a categorical variable. Users can choose between horizontal or vertical orientation for the box plots, 
+and customize aesthetics and labels as needed. Leveraging ggplot2, gboxplot() produces publication-ready box plots 
+with ease.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1

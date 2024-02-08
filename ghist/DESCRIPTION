@@ -1,0 +1,12 @@
+Package: ghist
+Title: Create Quick Histogram Plots with ggplot
+Version: 0.1.0
+Authors@R:
+person(Elijah, Wagner, email = eliswagner77@gmail.com, role = c("aut", "cre"))
+Description: This package provides a simple function, ghist(), to quickly create histogram plots using ggplot. 
+The ghist() function takes a single numeric vector as input and generates a histogram plot with customizable 
+aesthetics and labels. It leverages the power of ggplot2 to produce high-quality visualizations with minimal code.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
